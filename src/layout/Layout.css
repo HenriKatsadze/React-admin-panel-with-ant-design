@@ -16,7 +16,7 @@ body {
   overflow-y: scroll;
   display: flex;
   flex-wrap: wrap;
-  
+
 }
 
 .square {
@@ -74,4 +74,9 @@ body {
 .menu {
   display: flex;
   justify-content: flex-end;
+}
+
+.dropdown{
+  margin-top: 18px;
+  margin-right: 10px;
 }
